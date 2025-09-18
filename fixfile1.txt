@@ -1,1 +1,3 @@
 hi this is a bug fix file for git projects.
+updating fix file in master branch
+after merging the fix-one branch.
